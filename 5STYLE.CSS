@@ -1,0 +1,47 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+h1{
+    text-align: center;
+    position: inherit;
+    margin-right: 10px;
+    color:black;
+    size: 100px;
+}
+header{
+    background-image: url(p1.jpg);
+    background-position:center ;
+    background-size:cover;
+    height: 100vh;
+}
+h2{
+    text-align: center;
+    background-color: brown;
+    color: azure;
+    size: 10px;
+}
+img{
+    height: 400px;
+    width: 400px;
+    display: block;
+    margin: auto;
+}
+ul{
+    list-style: none;
+    display: flex;
+    margin-top: 20px;
+    float: right;
+
+}
+UL LI A{
+    text-decoration: none;
+    color:white;
+    padding: 15px 20px;
+    text-transform: uppercase;
+    font-weight: 100;
+    border: 1px solid white;
+    transition: 0.6s ease;
+    margin: 15PX;
+    font-weight: 400;
+}
